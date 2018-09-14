@@ -1,0 +1,26 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color: #ED7DAD;
+	font-size: 100%;
+}
+div {
+    padding: 25px 50px 75px 100px;
+}
+
+footer {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color: #FEFEFE;
+	font-size: 100%;
+}
+
+header {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color: #E561B0;
+	font-size: 100%;
+}
